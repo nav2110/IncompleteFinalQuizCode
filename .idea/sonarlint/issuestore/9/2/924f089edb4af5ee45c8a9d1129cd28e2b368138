@@ -1,0 +1,5 @@
+
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÍÌ«Üµ-
+Nsquid:S1481"+Remove this unused "packs1" local variable.(š©Šèÿÿÿÿÿ8ñ×ËÜµ-
+Msquid:S1481"*Remove this unused "packs" local variable.(¤ö–ƒùÿÿÿÿ8ñ×ËÜµ-
+¶%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(÷ëééûÿÿÿÿ8ñ×ËÜµ-
